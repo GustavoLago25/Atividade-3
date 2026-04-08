@@ -1,5 +1,5 @@
 # As 3 atividades que estavam faltando
-Atividade- 3
+* Atividade- 3
 https://colab.research.google.com/drive/1CHadHFtAx1y1-8Jmz5ccip0ozx7XiIq-
 
 * Atividade- 4
